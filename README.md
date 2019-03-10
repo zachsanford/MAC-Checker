@@ -19,7 +19,7 @@ BB:BB:BB:BB:BB:BB
 CC:CC:CC:CC:CC:CC
 ```
 *Note: My router presents MAC Addresses with colons (XX:XX:XX:XX:XX:XX). Yours might not. You can modify the
-regex string for your format in the script.*
+regex string to your router's format in the script.*
 
 The log file should just be a .txt file of the output from the router.
 
