@@ -32,3 +32,7 @@ the script.*
 
 From there just run the script! It will produce a .txt file with the MAC Addresses of the devices that are not 
 on your list.
+
+
+- Zach Sanford
+(@zachsanford)
