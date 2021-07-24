@@ -35,4 +35,4 @@ on your list.
 
 
 Zach Sanford<br />
-(@zachsanford)
+[@zachsanford](https://www.twitter.com/zachsanford)
